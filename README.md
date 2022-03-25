@@ -23,13 +23,13 @@ If you require support for IE9 or IE8, you must use Bootstrap 3.
 
 <h6>Bootstrap Version:3</h6>
 
-+ <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
++ https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
 
-+ <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
++ https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css
 
-+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
++ https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js
 
-+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
++ https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js
 
 
 
