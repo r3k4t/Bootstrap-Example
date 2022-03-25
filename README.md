@@ -1,6 +1,6 @@
-### Bootstrap Example: ###
 
-![bootstrap1](https://user-images.githubusercontent.com/69615463/160166814-605cc9a1-55ef-42ca-a9ec-2a37d5fc430e.png)
+
+<center>![bootstrap1](https://user-images.githubusercontent.com/69615463/160166814-605cc9a1-55ef-42ca-a9ec-2a37d5fc430e.png)</center>
 
   
 Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.
